@@ -1,0 +1,22 @@
+p {
+    color: white
+}
+
+p {
+    background-color: black;
+}
+
+div {
+    background-color: black;
+    width: 250px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
